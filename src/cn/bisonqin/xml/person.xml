@@ -1,0 +1,18 @@
+<?cn.bisonqin.xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persons>
+    <person>
+        <name>孙悟空</name>
+        <age>9000</age>
+    </person>
+
+    <person>
+        <name>唐玄奘</name>
+        <age>8000</age>
+    </person>
+
+    <person>
+        <name>沙和尚</name>
+        <age>7000</age>
+    </person>
+
+</persons>
